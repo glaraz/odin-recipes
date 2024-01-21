@@ -1,4 +1,4 @@
 # odin-recipes
-#This project is my atempt om my first full website
+#This is my first html project
 
-I will be following the instructions from the odin project, wish me luck!
+by the end of this project I will show what Ihave learnd up to this point
